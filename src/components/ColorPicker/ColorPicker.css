@@ -1,0 +1,10 @@
+.contenedorColorPicker{
+    height: 80vh;
+    align-items: center;
+}
+
+.titleColorPicker{
+    font-size: 25px;
+    margin-bottom:20px;
+}
+

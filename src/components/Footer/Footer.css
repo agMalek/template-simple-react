@@ -1,0 +1,13 @@
+
+.contenedorFooter{
+    height: 20vh;
+    background-color: #eee;
+}
+
+
+.textoFooter{
+    text-align: center;
+    font-size: 20px;
+    height: 40px;
+    padding: 50px;
+}
